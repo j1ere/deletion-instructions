@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Data Deletion Instructions</title>
+</head>
+<body>
+  <h1>Data Deletion Request</h1>
+  <p>If you wish to delete your data associated with our app, please follow the instructions below:</p>
+  <ul>
+    <li>Send an email to <a href="mailto:support@yourdomain.com">support@yourdomain.com</a></li>
+    <li>Include the subject: <strong>Facebook Data Deletion Request</strong></li>
+    <li>Include your Facebook ID or the email linked to your Facebook account</li>
+  </ul>
+  <p>We will process your request within 7 days.</p>
+</body>
+</html>
